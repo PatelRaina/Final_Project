@@ -79,6 +79,7 @@
 - [x] Add a JavaScript feature to electronic-devices.html page. (By Rahul)
 - [x] Update JavaScript features of login.html, my-account.html and that of the navigaion bar. Make necessary changes in HTML/CSS. (By Rahul)
 - [x] Add a javascript validation to checkoutpage.html page(By Mansi)
+- [x] Add a javascript feature of storing item to local storage to the accessories.html page(By Raina) 
 
 
 ---
@@ -88,6 +89,8 @@
 - Learnt to create a search bar, to filter the items as per the entered string. (By Rahul)
 - New challenge was to remove all the alert messages from all the pages. To achive this, html elements with proper information were dynamically placed to display the message, which were previously displayed by the alerts (By Rahul).
 - Learnt to validate the form without using alerts.(By Mansi)
+- New challenge was to set the parentElement and children according to the html file.(By Raina)
+- Learnt how to set the parentElement and Children in the javascript based on html page and how to store the items to local storage.(By Raina)
 
 #### Resources
 
